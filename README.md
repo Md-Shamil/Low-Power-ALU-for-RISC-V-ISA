@@ -29,30 +29,42 @@ Reduce thermal power dissipation using:
 
 ### 🧪 Block Diagrams
 
-![Customized 1 bit- full adder](https://github.com/user-attachments/assets/24ab4e19-bd39-4ad7-89ee-7e45276bb40b)
+**Customized 1-bit Full Adder**  
+![Customized 1-bit Full Adder](https://github.com/user-attachments/assets/24ab4e19-bd39-4ad7-89ee-7e45276bb40b)
 
+**Resource-Sharing Technique**  
 ![Resource-Sharing Technique](https://github.com/user-attachments/assets/8025cf80-b6b9-4516-93cc-26eb5ba09934)
 
+**Latch-Based Technique**  
 ![Latch-Based Technique](https://github.com/user-attachments/assets/8861cfbe-a35a-490b-97d4-12f271d19ace)
 
+**Proposed ALU**  
 ![Proposed ALU](https://github.com/user-attachments/assets/1bf2a72f-a829-4e16-9b80-4ec170d44919)
 
 
-### 🧪 Simulation Result
+### 🧪 Simulation Results
 
-![Power Analysis of Conventional ALU](![image](https://github.com/user-attachments/assets/e6c66328-9020-4d4a-aec3-64b7e5903058))
+**Power Analysis of Conventional ALU**  
+![Power Analysis of Conventional ALU](https://github.com/user-attachments/assets/e6c66328-9020-4d4a-aec3-64b7e5903058)
 
-![Power Analsyis of Resource-Sharing Technique Based ALU](![image](https://github.com/user-attachments/assets/41bf34cd-4627-40af-8b7f-db98dc9b15cc))
+**Power Analysis of Resource-Sharing Technique Based ALU**  
+![Power Analysis of Resource-Sharing ALU](https://github.com/user-attachments/assets/41bf34cd-4627-40af-8b7f-db98dc9b15cc)
 
-![Power Analysis of Latch Technique Based ALU](![image](https://github.com/user-attachments/assets/f1dbbada-44ad-4bf1-b3f1-1ed9b766da3f))
+**Power Analysis of Latch Technique Based ALU**  
+![Power Analysis of Latch Technique Based ALU](https://github.com/user-attachments/assets/f1dbbada-44ad-4bf1-b3f1-1ed9b766da3f)
 
-![Verification of Resource-Sharing Technique Based ALU](![image](https://github.com/user-attachments/assets/2bc7642b-cf99-4136-9e34-76c076b50f2e))
+**Verification of Resource-Sharing Technique Based ALU**  
+![Verification of Resource-Sharing Technique Based ALU](https://github.com/user-attachments/assets/2bc7642b-cf99-4136-9e34-76c076b50f2e)
 
-![Verification of Latch Technique Based ALU](![image](https://github.com/user-attachments/assets/76112bf6-444f-4ac6-a0bc-d5ddcec258a5))
+**Verification of Latch Technique Based ALU**  
+![Verification of Latch Technique Based ALU](https://github.com/user-attachments/assets/76112bf6-444f-4ac6-a0bc-d5ddcec258a5)
 
-![Propsoed ALU Along with Latch Based and Resource-Sharing Techniques](![image](https://github.com/user-attachments/assets/d12c9772-5478-41c7-9347-9d7a7c3d7410))
+**Proposed ALU Along with Latch-Based and Resource-Sharing Techniques – View 1**  
+![Proposed ALU View 1](https://github.com/user-attachments/assets/d12c9772-5478-41c7-9347-9d7a7c3d7410)
 
-![Propsoed ALU Along with Latch Based and Resource-Sharing Techniques](![image](https://github.com/user-attachments/assets/f07fde62-b2f0-4001-adf0-bea1f735fa4c))
+**Proposed ALU Along with Latch-Based and Resource-Sharing Techniques – View 2**  
+![Proposed ALU View 2](https://github.com/user-attachments/assets/f07fde62-b2f0-4001-adf0-bea1f735fa4c)
+
 
 
 
