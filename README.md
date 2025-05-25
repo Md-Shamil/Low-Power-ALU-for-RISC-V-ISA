@@ -91,16 +91,6 @@ Reduce thermal power dissipation using:
 - Quartus II (Power simulation)
 - VS Code (Development)
 
-## 🚧 TODOs / Future Scope
-
-- 🧱 Test on FPGA hardware
-- 📏 Scale to 8-bit or 16-bit ALUs
-- 📦 Integrate into multi-core RISC-V CPU
-- 🔍 Compare with other low-power logic styles
 
 ---
-
-📬 Reach out at:
-- `mohamedshamil.ai2022@vitstudent.ac.in`
-- `amirthavarshini.r2022@vitstudent.ac.in`
 
