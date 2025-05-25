@@ -29,8 +29,7 @@ Reduce thermal power dissipation using:
 
 ### 🧪 Block Diagrams
 
-![Customized 1 bit- full adder](![image](https://github.com/user-attachments/assets/d1a0799c-5bb6-45cc-b938-7e1bc3b6d064)
-)
+![Customized 1 bit- full adder](![image](https://github.com/user-attachments/assets/24ab4e19-bd39-4ad7-89ee-7e45276bb40b))
 
 ![Resource-Sharing Technique](![image](https://github.com/user-attachments/assets/8025cf80-b6b9-4516-93cc-26eb5ba09934))
 
